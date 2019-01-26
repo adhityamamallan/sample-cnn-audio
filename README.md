@@ -1,5 +1,7 @@
 # Keras implementation of the paper "Raw Waveform-based Audio Classification Using Sample-level CNN Architectures"
 
+#### Note: This model requires the Tensorflow Speech Recognition Dataset (https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/leaderboard) to train. 
+
 ### Environment Setup: 
 
 OS : Ubuntu 18.04.1 LTS
